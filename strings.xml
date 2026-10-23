@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusCycle</string>
+    <string name="accessibility_description">Mendeteksi saat TikTok, Instagram, atau Chrome dibuka pada fase fokus dan mengembalikan Anda ke FocusCycle. Tidak membaca isi layar.</string>
+</resources>
